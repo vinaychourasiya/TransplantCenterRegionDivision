@@ -7,3 +7,6 @@ This is my course project of IE-709 (IEOR for Healthcare)
     (ii) minimize the organ wastage with in one region.    (region is form by transplant center and it's allocated districts)\
 
 3. Integer progrmming model propose that solution gives the optimal location for new transplant center within the existing system.
+
+
+![Map of transplant region](https://github.com/vinaychourasiya/TransplantCenterRegionDivision/blob/master/IE-709/MAP1.png)![Map of transplant region with allocated region](https://github.com/vinaychourasiya/TransplantCenterRegionDivision/blob/master/IE-709/MAP2.png)
